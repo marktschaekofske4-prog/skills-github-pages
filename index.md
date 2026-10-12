@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Opening: Welcome to my first site!
 ---
